@@ -36,11 +36,13 @@ Leetcode-Top-150/
 make
 ```
 Compiles all problem into the `build\` directory
+
 2. __Build a specific problem__
 ```
 make problems/arrays/two_sum
 ```
 Compiles only the `two_sum` problem.
+
 3. __Run a specific problem__
 ```
 ./build/two_sum
